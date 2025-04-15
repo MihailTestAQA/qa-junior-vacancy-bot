@@ -1,35 +1,36 @@
-## Python
- #__pycache__/
- #*.py[cod]
- #*.pyo
- #*.pyd
- #*.log
- #.venv/
- #venv/
- #env/
+<<echo
+#
+ __pycache__/
+ *.py[cod]
+ *.pyo
+ *.pyd
+ *.log
+ .venv/
+ venv/
+ env/
  #
- ## IDE
- #.idea/
- #*.iml
- #.vscode/
- #*.sublime-*
+  IDE
+ .idea/
+ *.iml
+ .vscode/
+ *.sublime-*
  #
  ## Системные файлы
- #.DS_Store
- #Thumbs.db
+ .DS_Store
+ Thumbs.db
  #
  ## Медиа
- #screenshots/
- #*.png
- #*.jpg
+ screenshots/
+ *.png
+ *.jpg
  #
  ## Бинарники
- #chromedriver*
- #*.exe
- #*.zip
+ chromedriver*
+ *.exe
+ *.zip
  #
  ## Конфиги и секреты
- #.env
- #*.env
- #config.json
- #secrets.*
+ .env
+ *.env
+ config.json
+ secrets.* >>
